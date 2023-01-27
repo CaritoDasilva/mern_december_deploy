@@ -1,0 +1,14 @@
+.form-container {
+    padding: 2%;
+
+    form {
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        margin: 0 auto;
+
+        button {
+            margin-top: 5%;
+        }
+    }
+}
